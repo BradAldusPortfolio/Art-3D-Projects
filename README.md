@@ -22,3 +22,6 @@ The artwork explores the contrast between good and evil, while also highlighting
 
 <img width="1920" height="1080" alt="Art2" src="https://github.com/user-attachments/assets/0a54fac2-feb0-4856-a2dd-d66e5f70d799" />
 
+<img width="1080" height="1920" alt="Art1" src="https://github.com/user-attachments/assets/a17b9ea3-2d77-4c74-8241-14b79971fa30" />
+
+<img width="1080" height="1080" alt="Art3" src="https://github.com/user-attachments/assets/23cda777-29d4-4af7-8191-4bc89f1a9c08" />

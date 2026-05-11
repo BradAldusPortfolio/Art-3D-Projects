@@ -14,7 +14,11 @@ Using a 3D base as part of my concept art workflow became a technique I relied o
 
 <img width="1080" height="720" alt="Save4" src="https://github.com/user-attachments/assets/94b536e2-1b48-4118-b6bc-8658a7f58dd4" />
 
-
 🎨✨ This piece of art was created during college for a competition, and it also marked my very first digital painting. It was the project that truly made me fall in love with digital art and inspired me to continue developing my creative skills in this medium. 🖌️💻
 
 The artwork explores the contrast between good and evil, while also highlighting the connection that can exist between opposites. Rather than focusing purely on conflict, the piece represents the idea that understanding and unity can bridge even the strongest divides. ⚖️🌌
+
+## Character Portraits
+
+<img width="1920" height="1080" alt="Art2" src="https://github.com/user-attachments/assets/0a54fac2-feb0-4856-a2dd-d66e5f70d799" />
+
